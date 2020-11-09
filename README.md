@@ -1,1 +1,1 @@
-outage tracker, updated daily
+network health tracker, updated daily
